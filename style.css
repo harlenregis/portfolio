@@ -12,8 +12,8 @@ body {
     color: #f6f6f6;
 }
 
-img {
-    width: 550px;
+.imagem_principal {
+    width: 500px;
 }
 
 .titulo-destaque {
